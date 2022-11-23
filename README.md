@@ -1,9 +1,9 @@
-<h2> 👋 Olá, sou a Hellen Diana<h2><img align="right" src = "https://share-cdn.picrew.me/shareImg/org/202203/338224_1ofXyacg.png" width="200" height="200"/>
-   
+<h2> 👋 Olá, sou a Hellen Diana<h2><img align="right" src ="https://user-images.githubusercontent.com/101917461/203481592-ca552a51-f136-4ee3-aa67-47e6df82c615.jpeg" width="200" height="200"/>
+
   <h3>Sejam bem-vindo ao meu perfil do GitHub!😊<h3> 
     <h5><p>Sou iniciante no universo da programação e em transição de carreira, adoro desafios e estou em constante aprendizagem.
       Tenho interesse em desenvolvimento, mobile e games.<p/>
-      📚 Estou realizando o curso do CS50 e o de Desenvolvimento Web Moderno, conforme o andamento dos cursos vou atualizando aqui 
+      📚 Estou cursando a faculdade de Ciência da Computação, aprimorando meus conhecimentos com cursos, bootcamps, para que eu possa ser uma profissional melhor que ontem e vou atualizando  por aqui 
        as minhas conquistas 🏆    
       <p>Uma curiosidade : ❤👨‍👩‍👧‍👧🐶🦜❤<h5></p>
         <h5> 💻 Tecnologias e Ferramentas:<h5>   
