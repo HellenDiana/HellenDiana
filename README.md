@@ -23,7 +23,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HellenDiana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellenDiana&layout=compact&langs_count=7&theme=dracula"/>
     </div><p></p>
-          <div>
-           ![Snake animation](https://github.com/HellenDiana/HellenDiana/blob/output/github-contribution-grid-snake.svg)
-          </div>
+          ##cobrinha comendo minha contribuição
+          ![snake gif](https://github.com/HellenDiana/HellenDiana/blob/output/github-contribution-grid-snake.gif)
        
