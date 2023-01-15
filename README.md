@@ -5,16 +5,17 @@
      <p>Minha vida profissional é uma combinação de muito planejamento,  dedicação e resiliência, a minha inquietude pelo novo me fez iniciar no ano de 2022 uma nova jornada, da sala de aula rumo à desenvolvedora Full Stack. </p>
            <p>Nos últimos 10 anos desenvolvi uma carreira expressiva trabalhando como Professora, onde me descobri apaixonada pelo desenvolvimento de pessoas, a troca de saberes e a liderança.</p>
           <p>Já atuei em várias frentes e, como diferencial posso citar minha capacidade de comunicação, empatia e vontade de aprender, para mim é inevitável olhar para novos desafios. </p>
-          <p> 📚Me encontro 100% disposta a evoluir, aprender e transmitir conhecimento agregando valor a este novo mercado e ressignificando os meus conceitos de impactar a vida das pessoas.🏆
-      
-         
-      <p>Uma curiosidade : ❤👨‍👩‍👧‍👧🐶🦜❤<h5></p>
+          <p> 📚Me encontro 100% disposta a evoluir, aprender e transmitir conhecimento agregando valor a este novo mercado e ressignificando os meus conceitos de impactar a vida das pessoas.🏆</p>      
+        <div class="curiosidades"> 
+      <p>Uma curiosidade : ❤👨‍👩‍👧‍👧🐶🦜❤</p>
         <h5> 💻 Tecnologias e Ferramentas:<h5>   
-       <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-       <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-       <img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-       <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /><p></p>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"/>
+          </div>
         <div align="center">          
                  
             
@@ -22,4 +23,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HellenDiana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellenDiana&layout=compact&langs_count=7&theme=dracula"/>
     </div><p></p>
+          <div>
+           ![Snake animation](https://github.com/HellenDiana/HellenDiana/blob/output/github-contribution-grid-snake.svg)
+          </div>
        
