@@ -16,13 +16,13 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/>
           <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"/>
           </div>
-        <div align="center">          
-                 
-            
+        <div align="center">                             
   <a href="https://github.com/HellenDiana">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HellenDiana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellenDiana&layout=compact&langs_count=7&theme=dracula"/>
-    </div><p></p>
-          ##cobrinha comendo minha contribuição
-          ![snake gif](https://github.com/HellenDiana/HellenDiana/blob/output/github-contribution-grid-snake.gif)
+    </div>   
+         ![snake gif](https://github.com/HellenDiana/HellenDiana/blob/output/github-contribution-grid-snake.gif)
+  
+          
+          
        
