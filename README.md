@@ -1,10 +1,13 @@
   <h2> 👋 Olá, eu sou a Hellen Diana!<h2><img align="right" src ="https://user-images.githubusercontent.com/101917461/203481592-ca552a51-f136-4ee3-aa67-47e6df82c615.jpeg" width="200" height="200"/>
 
   <h3>Sejam bem-vindo ao meu perfil do GitHub!😊<h3> 
-    <h5><p>Sou iniciante no universo da programação e em transição de carreira, adoro desafios e estou em constante aprendizagem.
-      Tenho interesse em desenvolvimento, mobile e games.<p/>
-      📚 Estou cursando a faculdade de Ciência da Computação, aprimorando meus conhecimentos com cursos, bootcamps, para que eu possa ser uma profissional melhor que ontem e eu vou atualizando  por aqui 
-       as minhas conquistas 🏆    
+    <h5><p>Sou iniciante no universo da programação e em transição de carreira, adoro desafios e estou em constante aprendizagem.</p>
+     <p>Minha vida profissional é uma combinação de muito planejamento,  dedicação e resiliência, a minha inquietude pelo novo me fez iniciar no ano de 2022 uma nova jornada, da sala de aula rumo à desenvolvedora Full Stack. </p>
+           <p>Nos últimos 10 anos desenvolvi uma carreira expressiva trabalhando como Professora, onde me descobri apaixonada pelo desenvolvimento de pessoas, a troca de saberes e a liderança.</p>
+          <p>Já atuei em várias frentes e, como diferencial posso citar minha capacidade de comunicação, empatia e vontade de aprender, para mim é inevitável olhar para novos desafios. </p>
+          <p> 📚Me encontro 100% disposta a evoluir, aprender e transmitir conhecimento agregando valor a este novo mercado e ressignificando os meus conceitos de impactar a vida das pessoas.🏆
+      
+         
       <p>Uma curiosidade : ❤👨‍👩‍👧‍👧🐶🦜❤<h5></p>
         <h5> 💻 Tecnologias e Ferramentas:<h5>   
        <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
